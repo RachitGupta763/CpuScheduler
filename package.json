@@ -1,0 +1,33 @@
+{
+  "name": "cpu",
+  "version": "1.0.0",
+  "description": "CPU Scheduler",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/RachitGupta763/CpuScheduler.git)"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Rachit Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.11"
+  },
+  "dependencies": {
+    "favicon": "^0.0.2",
+    "postcss": "^8.4.45",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-favicon": "^2.0.7",
+    "react-router-dom": "^6.26.2",
+    "tailwind": "^4.0.0"
+  }
+}
